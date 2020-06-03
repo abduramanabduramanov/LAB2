@@ -1,0 +1,15 @@
+2020-03-29 15:37:16 INFO  root:23 - server start
+2020-03-29 15:37:16 INFO  root:24 - server port 8080
+2020-03-29 15:39:08 INFO  root:23 - server start
+2020-03-29 15:39:08 INFO  root:24 - server port 8080
+2020-03-29 15:39:29 DEBUG root:31 - client accept Socket[addr=/127.0.0.1,port=57051,localport=8080]
+2020-03-29 15:39:36 INFO  root:70 - client send qweert
+2020-03-29 15:39:43 DEBUG root:64 - client diconnectSocket[addr=/127.0.0.1,port=57051,localport=8080]
+2020-03-29 15:39:53 DEBUG root:31 - client accept Socket[addr=/127.0.0.1,port=57053,localport=8080]
+2020-03-29 15:41:14 INFO  root:23 - server start
+2020-03-29 15:41:14 INFO  root:24 - server port 8080
+2020-03-29 15:41:30 DEBUG root:31 - client accept Socket[addr=/127.0.0.1,port=57063,localport=8080]
+2020-03-29 15:41:33 INFO  root:70 - client send yuig
+2020-03-29 15:41:51 DEBUG root:64 - client diconnectSocket[addr=/127.0.0.1,port=57063,localport=8080]
+2020-03-29 15:41:59 DEBUG root:31 - client accept Socket[addr=/127.0.0.1,port=57065,localport=8080]
+2020-03-29 15:42:08 DEBUG root:64 - client diconnectSocket[addr=/127.0.0.1,port=57065,localport=8080]
